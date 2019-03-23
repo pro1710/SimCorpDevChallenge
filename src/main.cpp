@@ -5,8 +5,8 @@
  * @version 0.1
  * @date 2019-03-23
  * 
- * @copyright Copyright (c) 2019
- * 
+ * @copyright Copyright (c) 2019 Roman Pykhnivskyi
+ * @license This project is released under the MIT License.
  */
 
 #include "TripletZeroSum/TripletZeroSum.hpp"
@@ -26,11 +26,7 @@
  * @param argc Number of arguments
  * @param argv List of arguments
  * @return int Program exit status
- * 
- * @copyright Copyright (c) 2019 Roman Pykhnivskyi
- * @license This project is released under the MIT License.
  */
-
 int main(int argc, char* argv[]) {
 
     std::string programName = basename(argv[0]);
